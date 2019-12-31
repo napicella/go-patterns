@@ -1,6 +1,7 @@
 Repository which contains code and markdown for the Go patterns articles:
 * [Part 1](https://dev.to/napicellatwit/golang-patterns-5a64)
 * [Part 2](https://dev.to/napicellatwit/golang-patterns---part-2-1906)
+* [Part 3](https://dev.to/napicella/golang-patterns-part-3-apo)
 
 # Part 1
 ## Group constants
